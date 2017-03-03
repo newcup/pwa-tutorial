@@ -23,7 +23,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "./",
+  "start_url": "./?utm_source=web_app_manifest",
   "display": "fullscreen",
   "orientation": "portrait",
   "theme_color": "#29BDBB",
